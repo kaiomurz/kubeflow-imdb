@@ -1,0 +1,20 @@
+Run details
+Run ID: c7bbcc35-582b-4eb7-945e-27950108aedd
+Workflow name: imdb-pipeline-w4dz7
+Status: Succeeded
+Description
+Created at: 17/05/2022, 15:46:57
+Started at: 17/05/2022, 15:46:57
+Finished at: 17/05/2022, 17:06:06
+Duration: 1:19:09
+Run parameters
+aws_access_key_id: 
+aws_secret_access_key: 
+Bucket: imdb-kubeflow
+Key: data.csv
+y_heading: sentiment
+tokenizer_num_words: 1000
+shuffle: True
+split: 0.8
+fraction: 1
+num_epochs: 10

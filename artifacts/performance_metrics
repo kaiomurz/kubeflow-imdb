@@ -1,0 +1,6 @@
+Perfomance on test (holdout)  set of 10000 items
+Accuracy:	0.88
+Precision:	0.88
+Recall:		0.90
+Confusion matrix [[4488  519]
+ [ 633 4360]]
